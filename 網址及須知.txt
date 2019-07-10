@@ -1,0 +1,8 @@
+版本:Unity 2017.4.27f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b5642f6d7f10a201fd8df39?fbclid=IwAR3tvfcGEWuTfk56VaS1HeYEmscZPvVj-L7qP81wYhdQFIwtBBrvEYEi_Bg
+
+官方Github網址__https://github.com/AsehesL/FogOfWar
+
+本人Github網址__https://github.com/z1125411235/UWA_FogOfWar
+
